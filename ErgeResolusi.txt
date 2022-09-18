@@ -5,5 +5,7 @@ Erge Resolusi
  *materi modul 2
  *materi modul 3
 -fullstack developher
+ *materi modul 1
+ *materi modul 2
 -mysql database server
  *materi modul 1
