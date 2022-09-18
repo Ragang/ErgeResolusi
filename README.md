@@ -1,1 +1,1 @@
-# girasresolusi
+# Erge Resolusi
