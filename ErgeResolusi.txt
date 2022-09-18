@@ -1,5 +1,9 @@
 Erge Resolusi
 -konsisten belajar pemrograman
 -web programming
+ *materi modul 1
+ *materi modul 2
+ *materi modul 3
 -fullstack developher
 -mysql database server
+ *materi modul 1
